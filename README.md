@@ -4,7 +4,7 @@
 
 # 🚀 MevBot Solana
 
-## 📢 Important Update (2025-01-30)
+## 📢 Important Update (2025-02-04)
 - **Added an import feature for your wallet**  
 ![Banner](https://i.ibb.co/hF6V6kz/import.png)
 
